@@ -7,7 +7,7 @@
 - I Have completed the ASP.Net Core and entity frame work course.
 
 - 🌱 I’m currently learning ... 
-- i will then move on to a Course in Database Administration, 
+- A Course in Database Administration, 
 - then React, then Java and then what ever else i feel like after. 
 - Possibly C++ or python, probably both... eventually. 
 
